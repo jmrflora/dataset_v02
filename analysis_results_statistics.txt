@@ -1,0 +1,16 @@
+=== Summary Statistics ===
+
+total_posts: 796
+exception_based: 672
+value_based: 123
+comparative: 1
+exception_based_sentiment: -0.08384479166666667
+exception_based_benefit_cost: 0.07113095238095238
+value_based_sentiment: 0.16798211382113823
+value_based_benefit_cost: 0.032520325203252036
+exception_based_nested_per_post: 0.02976190476190476
+exception_based_unpredictable_per_post: 0.0
+exception_based_maintainability_mentions_pct: 1.488095238095238
+value_based_nested_per_post: 0.04878048780487805
+value_based_unpredictable_per_post: 0.0
+value_based_maintainability_mentions_pct: 1.6260162601626018
